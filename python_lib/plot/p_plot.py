@@ -28,7 +28,7 @@ def plot_data(x, c = 'black_color'):
 	plt.show()
 	return
 
-def plot_data_xy(x, y, c = 'black_color'):
+def plot_xy_data(x, y, c = 'black_color'):
 	fig = plt.figure()
 	plot = plt.plot(x, y, color = c)
 	fig.set_size_inches(5,5)

@@ -12,7 +12,7 @@ import matplotlib.cm as cm
 from matplotlib.colors import LogNorm
 
 import sys
-sys.path.append('/home/preston/Desktop/Programming/datasci/lib/plot/')
+sys.path.append('/home/preston/Desktop/Programming/datasci/p_lib/plot/')
 import p_plot
 
 
